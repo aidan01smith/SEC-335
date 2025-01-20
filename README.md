@@ -6,4 +6,4 @@ Any and all commands and concepts will be documented in the wiki and some code w
 
 Hi Professor Furkan!
 
-![Dancing Cat]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media.tenor.com/5BYK-WS0__gAAAAM/cool-fun.gif))
+![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
