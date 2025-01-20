@@ -7,4 +7,4 @@ Any and all commands and concepts will be documented in the wiki and some code w
 Hi Professor Furkan!
 
 
-[https://media.tenor.com/5BYK-WS0__gAAAAM/cool-fun.gif]
+![https://media.tenor.com/5BYK-WS0__gAAAAM/cool-fun.gif]
